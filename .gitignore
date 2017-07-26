@@ -1,0 +1,8 @@
+*_tmp*
+*.ipynb_checkpoints*
+*.pyc*
+*.active
+*.profile
+*.log
+*.png
+.DS_Store
